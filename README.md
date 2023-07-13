@@ -63,3 +63,5 @@ namespace CoreToolset
     }
 }
 ```
+Of course, you also need to setup the metadata of said dll in Unity : 
+![image](https://github.com/ReyAnthony/UWP-WindowsApp.lib-Wrapper/assets/8713778/fe2bef77-6c23-4fbf-90a2-d50f8eea4313)
