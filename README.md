@@ -1,5 +1,6 @@
 # UWP-WindowsApp.lib-Wrapper
 Wrapping GetGamingDeviceModelInformation (for now) for detecting Xbox console type
+
 For the record, because Microsoft Documentation is rather *lacking*... This code needs to linked against WindowsApp.lib.
 
 Example usage in Unity : 
